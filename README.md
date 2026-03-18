@@ -46,8 +46,8 @@ python main.py
 
 Para resolver o exercício proposto em sala de aula, você deve modificar o 
 arquivo `labirinto/exercise.py`.
-Após implementar sua solução, você pode executar o agente com o seguinte
-comando (assumindo que já está na pasta labirinto):
+Após implementar sua solução, ajuste a função main para executar o algoritmo implementado.
+Em seguida, você pode executar o agente com o seguinte comando (assumindo que já está na pasta labirinto):
 ```
 python exercise.py
 ```
